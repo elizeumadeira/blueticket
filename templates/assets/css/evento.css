@@ -1,0 +1,17 @@
+.tipo_ingresso_row {
+    margin: 20px 0;
+    border-bottom: 1px dotted #A6A6A6;
+}
+
+.label_descricao {
+    display: none;
+}
+
+input[type="text"]:disabled,
+input[type="date"]:disabled {
+    background: #FFF;
+}
+
+.disabledtextarea {
+    background: #FFF !important;
+}
